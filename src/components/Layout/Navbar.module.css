@@ -1,0 +1,7 @@
+.navbar{
+    background:rgb(201, 243, 197);
+    padding: 0 30px;
+    display: flex;
+    align-items:center;
+    height: 70px;
+}
